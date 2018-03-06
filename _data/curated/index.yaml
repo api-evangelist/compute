@@ -170,12 +170,6 @@
   url: https://www.awsgeek.com/posts/reinvent2017-evolution-of-the-ec2-host/
   domain: www.awsgeek.com
   image: ""
-- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160e107a0ca:ecac82:7157a206
-  item_date: "2018-01-10 09:04:21"
-  title: How to monitor Amazon EC2 with Datadog
-  url: https://www.datadoghq.com/blog/monitoring-ec2-instances-with-datadog/
-  domain: www.datadoghq.com
-  image: ""
 - curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160e107a0ca:ecac83:7157a206
   item_date: "2018-01-10 09:04:21"
   title: How to collect EC2 metrics
@@ -187,5 +181,35 @@
   title: Key metrics for EC2 monitoring
   url: https://www.datadoghq.com/blog/ec2-monitoring/
   domain: www.datadoghq.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160e107a0ca:ecac82:7157a206
+  item_date: "2018-01-10 09:04:21"
+  title: How to monitor Amazon EC2 with Datadog
+  url: https://www.datadoghq.com/blog/monitoring-ec2-instances-with-datadog/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_161ae22a9c0:1307981:e66afc8b
+  item_date: "2018-02-19 04:56:01"
+  title: Chaos Engineering using Amazon EC2 Systems Manager
+  url: https://medium.com/p/5278e0bc8482
+  domain: medium.com
+  image: ""
+- curated_id: 8gWX9gjCXu6b2pD1eYQk9otwiJsMWRDfIpqRBziTqiI=_161b3edf56a:18a2cf:c8ea36f9
+  item_date: "2018-02-20 05:44:11"
+  title: 'Kubernetes: The Difference Between Containers and Virtual Machines'
+  url: https://admin.dyn.com/?p=59744
+  domain: admin.dyn.com
+  image: ""
+- curated_id: 9QOGTVP+u4vwJNHB7SlLr9mbA0Mmqrsw3WZp2GL3orY=_161ba473f82:a8864e8:541f3c40
+  item_date: "2018-02-21 13:13:35"
+  title: Understanding the VMware REST API interface
+  url: http://techgenix.com/vmware-rest-api/
+  domain: techgenix.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_161e8a6d2f6:5c8fb:a077e55f
+  item_date: "2018-03-02 13:36:04"
+  title: The hunt for cheaper GPUs is turning up some unexpected bargains
+  url: https://arstechnica.com/?p=1268671
+  domain: arstechnica.com
   image: ""
 ...
