@@ -170,10 +170,10 @@
   url: https://www.awsgeek.com/posts/reinvent2017-evolution-of-the-ec2-host/
   domain: www.awsgeek.com
   image: ""
-- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160e107a0ca:ecac84:7157a206
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160e107a0ca:ecac83:7157a206
   item_date: "2018-01-10 09:04:21"
-  title: Key metrics for EC2 monitoring
-  url: https://www.datadoghq.com/blog/ec2-monitoring/
+  title: How to collect EC2 metrics
+  url: https://www.datadoghq.com/blog/collecting-ec2-metrics/
   domain: www.datadoghq.com
   image: ""
 - curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160e107a0ca:ecac82:7157a206
@@ -182,10 +182,10 @@
   url: https://www.datadoghq.com/blog/monitoring-ec2-instances-with-datadog/
   domain: www.datadoghq.com
   image: ""
-- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160e107a0ca:ecac83:7157a206
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160e107a0ca:ecac84:7157a206
   item_date: "2018-01-10 09:04:21"
-  title: How to collect EC2 metrics
-  url: https://www.datadoghq.com/blog/collecting-ec2-metrics/
+  title: Key metrics for EC2 monitoring
+  url: https://www.datadoghq.com/blog/ec2-monitoring/
   domain: www.datadoghq.com
   image: ""
 - curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_161ae22a9c0:1307981:e66afc8b
@@ -217,5 +217,11 @@
   title: Spot Vs. On
   url: https://dzone.com/articles/2103912
   domain: dzone.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_16273111377:734a064:7d6c1c1c
+  item_date: "2018-03-29 09:47:47"
+  title: Qubes OS 4.0 Launches With Fully
+  url: http://www.tomshardware.com/news/qubes-os-4.0-fully-virtualized-vms,36774.html
+  domain: www.tomshardware.com
   image: ""
 ...
