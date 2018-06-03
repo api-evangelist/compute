@@ -170,6 +170,12 @@
   url: https://www.awsgeek.com/posts/reinvent2017-evolution-of-the-ec2-host/
   domain: www.awsgeek.com
   image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160e107a0ca:ecac84:7157a206
+  item_date: "2018-01-10 09:04:21"
+  title: Key metrics for EC2 monitoring
+  url: https://www.datadoghq.com/blog/ec2-monitoring/
+  domain: www.datadoghq.com
+  image: ""
 - curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160e107a0ca:ecac82:7157a206
   item_date: "2018-01-10 09:04:21"
   title: How to monitor Amazon EC2 with Datadog
@@ -180,12 +186,6 @@
   item_date: "2018-01-10 09:04:21"
   title: How to collect EC2 metrics
   url: https://www.datadoghq.com/blog/collecting-ec2-metrics/
-  domain: www.datadoghq.com
-  image: ""
-- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160e107a0ca:ecac84:7157a206
-  item_date: "2018-01-10 09:04:21"
-  title: Key metrics for EC2 monitoring
-  url: https://www.datadoghq.com/blog/ec2-monitoring/
   domain: www.datadoghq.com
   image: ""
 - curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_161ae22a9c0:1307981:e66afc8b
