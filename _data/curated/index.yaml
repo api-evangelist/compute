@@ -170,12 +170,6 @@
   url: https://www.awsgeek.com/posts/reinvent2017-evolution-of-the-ec2-host/
   domain: www.awsgeek.com
   image: ""
-- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160e107a0ca:ecac83:7157a206
-  item_date: "2018-01-10 09:04:21"
-  title: How to collect EC2 metrics
-  url: https://www.datadoghq.com/blog/collecting-ec2-metrics/
-  domain: www.datadoghq.com
-  image: ""
 - curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160e107a0ca:ecac84:7157a206
   item_date: "2018-01-10 09:04:21"
   title: Key metrics for EC2 monitoring
@@ -186,6 +180,12 @@
   item_date: "2018-01-10 09:04:21"
   title: How to monitor Amazon EC2 with Datadog
   url: https://www.datadoghq.com/blog/monitoring-ec2-instances-with-datadog/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160e107a0ca:ecac83:7157a206
+  item_date: "2018-01-10 09:04:21"
+  title: How to collect EC2 metrics
+  url: https://www.datadoghq.com/blog/collecting-ec2-metrics/
   domain: www.datadoghq.com
   image: ""
 - curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_161ae22a9c0:1307981:e66afc8b
@@ -234,6 +234,20 @@
   item_date: "2018-08-01 05:02:01"
   title: 'From Instances to Functions: Evolution of AWS Compute Resources'
   url: https://dzone.com/articles/2357483
+  domain: dzone.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_165d8f4de5c:4efa12:3097813d
+  item_date: "2018-09-14 05:17:27"
+  title: 'Vulkan memory model: Vulkan becomes the world''s first graphics API to include
+    a formal memory model'
+  url: https://hub.packtpub.com/vulkan-memory-model-vulkan-becomes-the-worlds-first-graphics-api-to-include-a-formal-memory-model/
+  domain: hub.packtpub.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_165fc26c1b7:1964d92:4db7ac35
+  item_date: "2018-09-21 05:03:12"
+  title: 'Virtual Machines vs Containers vs Serverless Computing: Everything You Need
+    to Know'
+  url: https://dzone.com/articles/2460225
   domain: dzone.com
   image: ""
 ...
